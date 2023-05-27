@@ -3,10 +3,11 @@
 .cards {
     text-align: center;
     background: var(--card);
-    padding: rem(25);
+    padding: rem(20);
     border-radius: rem(25);
     width: rem(325);
     height: rem(500);
+    margin: rem(25) auto;
 }
  img {
      border-radius: rem(25);
